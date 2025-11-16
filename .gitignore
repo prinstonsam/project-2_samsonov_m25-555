@@ -8,3 +8,7 @@ __pycache__
 .vscode
 .idea
 poetry.lock
+*.cast
+storage/
+data/
+db_meta.json
