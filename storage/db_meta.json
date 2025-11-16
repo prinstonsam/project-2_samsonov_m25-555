@@ -1,0 +1,7 @@
+{
+  "test": [
+    "ID:int",
+    "name:str",
+    "age:int"
+  ]
+}
